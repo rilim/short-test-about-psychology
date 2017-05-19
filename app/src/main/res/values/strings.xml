@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Short psychology test</string>
+    <string name="activity2">Score and answers</string>
+    <string name="question1">1. What was the year when psychology became as a separate scientific discipline?</string>
+    <string name="question2">2. Does well-known Sigmund Freud contributed to psychology becoming as a separate scientific discipline?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question3">3. Which one is Sigmund Freud?</string>
+    <string name="question4">4. According to Freud, the mind can be divided into few different levels. Write a number of how many levels</string>
+    <string name="question4_hint">Number of mind levels</string>
+    <string name="question5">5. Which of these later contributed to psychology as well?</string>
+    <string name="viktor">Viktor Frankl</string>
+    <string name="john">John Milton</string>
+    <string name="kurt">Kurt Lewin</string>
+    <string name="eric">Eric Berne</string>
+    <string name="button">Check Answers</string>
+    <string name="answer1">1. Wilhelm Wundt opened the Institute for Experimental Psychology at the University of Leipzig in Germany in <b>1879</b>.  This was the first laboratory dedicated to psychology, and its opening is usually thought of as the beginning of modern psychology.</string>
+    <string name="answer2">2. Freud was an Austrian neurologist and the founder of psychoanalysis, who created an entirely new approach to the understanding of the human personality. He is regarded as one of the most influential and controversial minds of the 20th century. However, he is <b>not</b> related to psychology becoming as a separate science - he just made a hugh impact in this area.</string>
+    <string name="answer3">3. Freud was also known as heavy cigar smoker. In another picture was shown Carl Gustav Jung - friend and student of Freud.</string>
+    <string name="answer4">4. According to Freud, the mind can be divided into <b>3</b> different levels: conscious, preconscious and unconscious mind.</string>
+    <string name="answer5">5. There are 3 people from that list who contributed to psychology: <b>Viktor Frankl, Kurt Lewin and Eric Berne.</b></string>
+    <string name="score_text">Your score is: </string>
+    <string name="toast">Great job! Your score is: </string>
+</resources>
